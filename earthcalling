@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AV - About</title>
+</head>
+
+<body>
+    
+    <h1>AV</h1>
+
+    <a href="about.html">about</a>
+    
+    <a href="climbing.html">climbing</a>
+    
+    <h1>About</h1>
+
+    <p>My name is Attila Vajda, I live in Hungary and I teach English.</p>
+
+    <p>In webdesign and development I would like to learn programming, and become a master of programming. I want to build good looking and well made, usable web pages.</p>
+
+    <ul>
+        <li>I study music, 
+        <li>I do yoga and 
+        <li>Arduino.
+    </ul>
+
+    <blockquote>
+        <p>'Stay put and watch the world go round.'</p>
+        <cite>Henry Miller</cite>
+    </blockquote>
+
+    <img src="Images/atikep001.jpg" alt="Attila furdik." title="Attila furdik.">
+
+    <p>
+        <a href="https://exercism.io/" target="_blank">This is a link to Exercism, a website for code learning.</a>
+    </p>
+
+</body>
+</html>
